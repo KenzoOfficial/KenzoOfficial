@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Aarav / Kenzo</h1>
+<h3 align="center">A passionate student of I.I.T Bombay, India.</h3>
 
-<!--
-**KenzoOfficial/KenzoOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Riedable**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Python game development.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **Indus: Battle Royale**
+
+- 🤝 I’m looking for help with **Riedable**
+
+- 💬 Ask me about **Java, Lua, Perl, Bash, C and C++**
+
+- 📫 How to reach me **@dev_kenzo on Discord**
+
+
+
+
+
+
+
+
+
